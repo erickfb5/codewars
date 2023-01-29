@@ -14,7 +14,7 @@
 
 
 // My solution:
-// const index = (array, n) => (array[n] ? Math.pow(array[n], n) : -1);
+const index = (array, n) => (array[n] ? Math.pow(array[n], n) : -1);
 
 
 //Different solution:
